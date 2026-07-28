@@ -17,13 +17,9 @@
 
 ---
 
-## 🛠️ Skills
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github,git" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
