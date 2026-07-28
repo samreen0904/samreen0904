@@ -32,6 +32,15 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+🔹 Portfolio Website
+
+🔹 Fashion Website
+
+🔹 JavaScript Assignments
+
+🔹 Responsive Landing Pages
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
