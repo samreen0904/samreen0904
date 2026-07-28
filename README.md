@@ -21,5 +21,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github,git" />
 </p>
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samreen0904&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samreen0904&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreen0904&layout=compact&theme=tokyonight" />
+</p>
 
 ⭐ Thanks for visiting my profile!
