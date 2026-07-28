@@ -28,13 +28,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samreen0904&show_icons=true&theme=radical"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreen0904&layout=compact&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samreen0904&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samreen0904&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samreen0904&theme=github_dark" />
+</p>
 ---
 
 ## 📫 Connect With Me
