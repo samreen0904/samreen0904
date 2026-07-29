@@ -48,10 +48,10 @@
 🔹 Responsive Landing Pages
 
 <p align="center">
-<h2>✨ Thanks for Visiting My Profile ✨</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD&height=120&section=footer&animation=twinkling"/>
+  <img src="https://media.tenor.com/H8vP6GQ0Jk8AAAAi/cherry-blossom.gif" width="220"/>
 </p>
+
+<h2 align="center">🌸 Thank You for Visiting 🌸</h2>
 
 
 
