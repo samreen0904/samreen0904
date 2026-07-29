@@ -61,7 +61,7 @@
 
 <!-- Thank You Message -->
 <h2 align="center">
-  💜 Thanks for Visiting My Profile 💜
+  💜 Thanks for Visiting My Github Profile 💜
 </h2>
 
 <p align="center">
