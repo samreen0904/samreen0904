@@ -52,10 +52,7 @@
 
 
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=3000&color=BB86FC&center=true&vCenter=true&width=600&lines=────────────────────────────"/>
-</p>
+
 
 <!-- Waving Hand Animation -->
 <p align="center">
