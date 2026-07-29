@@ -1,9 +1,9 @@
- <p align="center">
-  <img src="./ChatGPT Image Jul 28, 2026, 04_33_09 AM.png" alt="GitHub Banner" width="100%">
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Samreen Shah</h1>
+
+<h3 align="center">💻 Frontend Web Developer | SMIT Student | JavaScript Learner</h3>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Web+Developer;HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Always+Learning+New+Things+%F0%9F%9A%80" /> </p>
+
 
 
 
