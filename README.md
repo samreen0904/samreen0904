@@ -48,10 +48,10 @@
 🔹 Responsive Landing Pages
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+<h2>✨ Thanks for Visiting My Profile ✨</h2>
 
-<h3 align="center">💜 Thanks for Visiting My Profile 💜</h3>
-</p>d
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD&height=120&section=footer&animation=twinkling"/>
+</p>
 
 
 
