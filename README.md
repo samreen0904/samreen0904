@@ -50,85 +50,80 @@
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p> -->
-# <h1 align="center">Hi 👋, I'm Samreen Shah</h1>
-
-<h3 align="center">💻 Frontend Web Developer | SMIT Student | JavaScript Learner</h3>
+<!-- Animated Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Web+Developer;HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD,4B0082&height=220&section=header&text=Samreen%20Shah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;SMIT+Student;HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Always+Learning+New+Things+🚀;Welcome+to+my+GitHub+Profile!"/>
+</p>
+
+<!-- Coding GIF -->
+
+<p align="center">
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-* 🌱 Currently learning **JavaScript**
-* 🎓 Frontend Web Development Student at **SMIT**
-* 💡 Passionate about creating responsive websites
-* 🚀 Goal: Become a Professional Frontend Developer
-* 📚 Learning every day
+* 🌱 Learning **JavaScript**
+* 💜 Love creating responsive websites
+* 🎯 Future Frontend Developer
+* 🚀 Always improving my coding skills
 
 ---
 
-## 🚀 Skills
+# 🛠️ Skills
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode"/>
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=samreen0904&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreen0904&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=samreen0904&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=samreen0904&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samreen0904&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Trophies
 
 <p align="center">
-
-<a href="https://github.com/samreen0904">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=samreen0904&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
 
 <p align="center">
-
-✨ Thanks for visiting my profile ✨
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD,4B0082&height=120&section=footer"/>
 </p>
+
 
 
 
