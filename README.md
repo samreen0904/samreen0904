@@ -47,28 +47,26 @@
 
 🔹 Responsive Landing Pages
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=3000&color=BB86FC&center=true&vCenter=true&width=600&lines=────────────────────────────"/>
-</p>
 
-<!-- Waving Hand Animation -->
-<p align="center">
-  <img src="https://media.tenor.com/8QHjZ4dS7aQAAAAi/waving-hand.gif" width="140" alt="Waving Hand"/>
-</p>
-
-<!-- Thank You Message -->
-<h2 align="center">
-  💜 Thanks for Visiting My Profile 💜
-</h2>
 
 <p align="center">
-  ⭐ If you like my work, don't forget to star my repositories!
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=👋+Thanks+for+Visiting+My+Profile!;💜+Keep+Learning,+Keep+Growing!;⭐+Don't+Forget+to+Star+My+Repositories!"/>
 </p>
 
-<!-- Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD&height=120&section=footer&animation=twinkling"/>
+  ✨ ✨ ✨ 💜 👋 💜 ✨ ✨ ✨
 </p>
+
+<p align="center">
+  <b>Thanks for stopping by!</b><br>
+  Wishing you an amazing day! 🌸
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2,6A5ACD,C084FC&section=footer&animation=twinkling"/>
+</p>
+```
+
 
 
 
