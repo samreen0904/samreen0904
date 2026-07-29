@@ -48,8 +48,8 @@
 🔹 Responsive Landing Pages
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p> 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!;💜+Have+a+wonderful+day!;⭐+Don't+forget+to+star+my+repositories!"/>
+</p>
 
 
 
