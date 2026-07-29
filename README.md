@@ -48,10 +48,28 @@
 🔹 Responsive Landing Pages
 
 <p align="center">
-  <img src="https://media.tenor.com/H8vP6GQ0Jk8AAAAi/cherry-blossom.gif" width="220"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=3000&color=BB86FC&center=true&vCenter=true&width=600&lines=────────────────────────────"/>
 </p>
 
-<h2 align="center">🌸 Thank You for Visiting 🌸</h2>
+<!-- Waving Hand Animation -->
+<p align="center">
+  <img src="https://media.tenor.com/8QHjZ4dS7aQAAAAi/waving-hand.gif" width="140" alt="Waving Hand"/>
+</p>
+
+<!-- Thank You Message -->
+<h2 align="center">
+  💜 Thanks for Visiting My Profile 💜
+</h2>
+
+<p align="center">
+  ⭐ If you like my work, don't forget to star my repositories!
+</p>
+
+<!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD&height=120&section=footer&animation=twinkling"/>
+</p>
+
 
 
 
